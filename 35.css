@@ -1,0 +1,40 @@
+body {
+    background-image: url(../../../../../Downloads/newunion_org-jersey-5457156_1920.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#siema2 {
+    font-size:35px;
+}
+.siema {
+    display:none;
+    position:absolute;
+    left:-25px;
+}
+#siema2:hover .siema {
+    display:flex;
+    margin:20px;
+    padding:5px;
+    
+}
+a {
+    text-decoration: none;
+}
+#obraz1 {
+    position:relative;
+    right:-67vw;
+    bottom: -620px;
+    width:15vh;
+}
+#tekst1 {
+    font-size:2vh;
+    position: relative;
+    top:30px;
+    left:150px;
+    color:white
+}
+.carousel {
+    width:20vh;
+    position:absolute;
+    bottom:-430px;
+}
