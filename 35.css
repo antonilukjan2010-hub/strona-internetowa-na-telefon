@@ -1,5 +1,5 @@
 body {
-    background-image: url("obraz2.jpg");
+    background-image: url(obraz2.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
@@ -39,5 +39,6 @@ a {
     bottom:-430px;
 
 }
+
 
 
