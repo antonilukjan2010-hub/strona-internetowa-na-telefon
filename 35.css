@@ -1,5 +1,5 @@
 body {
-    background-image: url(../../../../../Downloads/newunion_org-jersey-5457156_1920.jpg);
+    background-image: url(newunion_org-jersey-5457156_1920.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
@@ -37,4 +37,5 @@ a {
     width:20vh;
     position:absolute;
     bottom:-430px;
+
 }
